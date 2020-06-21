@@ -83,6 +83,8 @@ function Child() {
           <br />
           <input className="button" type="submit" value="Add Transaction"  />
 
+          <h6 className="heading_2">© 2020 TechSiege, D&D by Fazal Ur Rehman Azad.</h6>
+
       </form>
     </div>
   );
