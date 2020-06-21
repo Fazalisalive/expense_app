@@ -59,7 +59,7 @@ function Child() {
                     return (<li key={ind}>
                         <span>{transObj.desc}</span>
                         <span>${transObj.amount}</span>
-                        {/* <p  className="red-cross"> x </p> */}
+                        {/* <p  className="red-cross"> x </p>    */}
                         
                     </li>
                     
